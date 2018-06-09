@@ -1,0 +1,19 @@
+.demo {
+    height: 100px;
+    width: 100px;
+    display: inline-block;
+    margin: 0px;
+    background-color: gray;
+}
+
+.red {
+    background-color: red;
+}
+
+.rgreened {
+    background-color: green;
+}
+
+.blue {
+    background-color: blue;
+}
